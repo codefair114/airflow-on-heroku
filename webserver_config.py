@@ -1,1 +1,1 @@
-
+AUTH_ROLE_PUBLIC = 'Viewer'
